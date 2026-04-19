@@ -54,4 +54,4 @@ lib/
 
 ---
 
-Desenvolvido por [Henrique Molinari](https://www.linkedin.com/in/henrique-molinari)
+Desenvolvido por: [Henrique Molinari](https://www.linkedin.com/in/henrique-molinari)
