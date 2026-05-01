@@ -1,6 +1,6 @@
 # Custom Splash Screen - Flutter 🚀
 
-Este projeto foi desenvolvido por **Henrique Molinari** com o objetivo de demonstrar a criação de uma **Splash Screen não nativa** no Flutter.
+Este projeto foi desenvolvido com o objetivo de demonstrar a criação de uma **Splash Screen não nativa** no Flutter.
 
 Diferente da abordagem tradicional que utiliza as configurações do sistema operacional (Android/iOS), este método consiste em criar a tela de abertura como um Widget manual dentro do diretório `lib`, permitindo total liberdade criativa e controle de fluxo.
 
