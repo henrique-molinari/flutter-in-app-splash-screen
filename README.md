@@ -44,6 +44,7 @@ lib/
 2. Instale as dependências:
 
    ```bash
+   flutter clean
    flutter pub get
    ```
 3. Execute o projeto:
